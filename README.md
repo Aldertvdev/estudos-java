@@ -1,3 +1,5 @@
+![Itaú](https://img.shields.io/badge/Itaú-Unibanco-orange?style=flat-square)
+
 # Estudos de Java + Spring Boot
 
 Repositório para registrar meu aprendizado em Java, Spring Boot e tecnologias relacionadas.
