@@ -37,3 +37,9 @@ Acompanhar minha evolução do básico ao avançado, com anotações, códigos e
 git clone https://github.com/seuusuario/estudos-java.git
 cd estudos-java/projetos/nome-do-projeto
 ./mvnw spring-boot:run
+```
+## 🚀 Objetivo Atual
+
+Estudando Java + Spring Boot para processos seletivos, com foco em **Itaú Unibanco**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-gabriel-souza?utm_source=share_via&utm_content=profile&utm_medium=member_android)
